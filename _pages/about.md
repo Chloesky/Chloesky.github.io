@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Yang Guo"
 author_profile: true
 redirect_from: 
   - /about/
