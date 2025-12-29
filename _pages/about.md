@@ -1,4 +1,4 @@
----
+--- 
 permalink: /
 title: "About Me"
 author_profile: true
@@ -7,16 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at the [National Institute on Drug Dependence](https://nidd.bjmu.edu.cn), [Peking University](https://www.pku.edu.cn/). My research interest lies in exploring the cognitive neural mechanisms of mental illness. I'm currently working on identifying EEG-based biomarkers for substance use disorder and tracking disease trajectory.
+**December 2025 Update:**
+I am a second-year Ph.D. student at the National Institute on Drug Dependence, [Peking University](https://www.pku.edu.cn/). My research interest lies in exploring the cognitive neural mechanisms of mental illness. I'm currently working on identifying EEG-based biomarkers for Substance Use Disorder and tracking disease trajectory.
 
-[Email](yangguo@stu.pku.edu.cn) / [Github](https://github.com/Chloesky) 
 
----
-permalink: /
-title: "Education"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-Date: 2025-12
+## Education
+·2024/09-Present, Ph.D. Candidate, Peking University Health Science Center
+·2020/09-2024/07, Bachelor of Science, Peking University Health Science Center
+
+
+## Publications
+·Li J#, Guo Y#, Yang K#, Zhang G#, Huang K#, Zhou J, Sun Y, Wang Z*. Rehabilitation effects of game therapy in people living with dementia: A systematic review and meta-analysis: Three formats of game therapy for Alzheimer's patients. Worldviews Evid Based Nurs. 2023 Aug;20(4):361-376. doi: 10.1111/wvn.12648. Epub 2023 Jun 12. PMID: 37306292.
