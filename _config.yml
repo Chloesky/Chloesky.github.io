@@ -8,7 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+#site_theme               : "default" # Currently available options are "default", "air"
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 title                    : "Yang Guo"
 title_separator          : "-"
 name                     : &name "Your Name"
