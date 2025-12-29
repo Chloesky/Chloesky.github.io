@@ -21,9 +21,9 @@ I am a second-year Ph.D. student at the National Institute on Drug Dependence, [
 
 
 # Skills
-**Technical**: [Learning to code] EEG/ERP analysis, R, SPSS, Matlab, Python
-**Clinical**: PSG, EEG
-**Languages**: Chinese (Native), English
+- **Technical**: [Learning to code] EEG/ERP analysis, R, SPSS, Matlab, Python
+- **Clinical**: PSG, EEG
+- **Languages**: Chinese (Native), English
 
 
 # Publications
