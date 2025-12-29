@@ -14,7 +14,8 @@
 .container .content {
     display: none;
     padding : 20px;
-    max-width: 70px;          
+    max-width: 70ch; 
+    margin: 0 auto; 
     width: auto;              
     word-wrap: break-word;    
     overflow-wrap: break-word; 
