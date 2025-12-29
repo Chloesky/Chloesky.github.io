@@ -24,11 +24,11 @@ repository               : "chloesky/chloesky.github.io"
 author:
   # Biographic information
   avatar           : "../images/YangGuo.png"
-  name             : "Yang Guo(郭洋)"
+  name             : "Yang Guo (郭洋)"
   pronouns         : #"she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Peking University"
+  location         : #"Earth"
+  employer         : #"Peking University"
   uri              : #"https://Chloesky.github.io"
   email            : "yangguo@stu.pku.edu.cn" 
 
